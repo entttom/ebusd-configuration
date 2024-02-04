@@ -62,7 +62,7 @@ r,,ch_63,,,,,FF3263,,,IGN:3,,,,,,UIN,,,,,,,,,,,,,,,
 # Heat pump configuration menu values
 r,,HeatCurve,,,,,8F352D,,,IGN:3,,,,,,BCD,10,,heat curve 0.1 to 4.0,,,,,,,,,,,,
 # Uncomment the next line if you want to be able to change HeatCurve (from Home Assistant for example)
-#w,hmu,HeatCurve,,,08,B51A,06CD352D,,,BCD,10,,,,,,,,,,,,,,,,,,,,
+w,hmu,HeatCurve,,,08,B51A,06CD352D,,,BCD,10,,,,,,,,,,,,,,,,,,,,
 r,,SummerSwitchOffTemp,,,,,8F352E,,,IGN:3,,,,,,D2C,,°C,Switch-off temperature summer (°C),,,,,,,,,,,,
 r,,HcBivalencePoint,,,,,8F352F,,,IGN:3,,,,,,D2C,,°C,Central heating bivalence point (°C),,,,,,,,,,,,
 r,,HwcBivalencePoint,,,,,8F3530,,,IGN:3,,,,,,D2C,,°C,Bivalence point domestic hot water (°C),,,,,,,,,,,,
